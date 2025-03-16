@@ -1,7 +1,6 @@
 /* -----------------------------------------------------------------------------
   - Project: Remote control Crawling robot
-  - Author:  panerqiang@sunfounder.com
-  - Date:  2015/1/27
+  - Initial Author:  panerqiang@sunfounder.com
    -----------------------------------------------------------------------------
   - Overview
   - This project was written for the Crawling robot desigened by Sunfounder.
@@ -22,6 +21,7 @@
    ---------------------------------------------------------------------------*/
 
 // modified by Sparklers for smartphone controlled Crawling robot, 3/30/2021
+// Further modified by Arul Christopher, 15th Feb 2025
 
 /* Includes ------------------------------------------------------------------*/
 #include <Servo.h>    //to define and control servos
